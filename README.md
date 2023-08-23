@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá!!👋 Eu sou a Lalesca Nascimento
 
-<!--
-**laahnascimento/laahnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Atualmente estou aprendendo: lógica de programação.
+- 😄 Pronomes: ela/dela.
+- ⚡ Fato engraçado: gosto de experimentar coisas.
 -->
+<div>
+  <a href="https://github.com/pedronss">
+  <img height="100%" width="369px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laahnascimento&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+<div>
+ <a href="https://github.com/pedronss">
+ <img height="100%" width="369px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api?username=laahnascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div> 
+
+<did>
+ <img align="center" alt="Ruka-Pg" height="43" width="43" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
+</div>
