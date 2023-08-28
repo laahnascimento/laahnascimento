@@ -6,7 +6,7 @@
 
 ### Linguagens
   
-<div>
+<div style="display: inline_block">
  <a href="//pt.wikipedia.org/wiki/Portugol"><img align="center" alt="Ruka-Pg" height="43" width="43" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
 </div>
   
