@@ -4,13 +4,12 @@
 - 😄 Pronomes: ela/dela.
 - ⚡ Fato engraçado: gosto de experimentar coisas.
 
-## Linguagens
+### Linguagens
   
-<div style="display: inline_block">
+<div>
  <a href="//pt.wikipedia.org/wiki/Portugol"><img align="center" alt="Ruka-Pg" height="43" width="43" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
 </div>
-
-  
+ 
 <div>
   <a href="https://github.com/laahnascimento">
   <img height="100%" width="369px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laahnascimento&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
